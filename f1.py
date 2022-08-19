@@ -1,0 +1,5 @@
+f=open("f1.txt","w")
+f.write("1qaz2wsx3edc4rfv5tgb7ujm9ikA12345679876543SDFGHJOIUYTRE*&^%$#@@2")
+f=open("f1.txt","r")
+x=f.read()
+f.close()
